@@ -1,0 +1,11 @@
+#pictures
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+
+#parts
+
+*.stl
+
