@@ -9,3 +9,6 @@
 
 *.stl
 
+#special files
+carriage_extrusion/spring_replacement1.sldprt
+carriage_extrusion/spring_replacement2.sldprt
