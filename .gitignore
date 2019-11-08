@@ -8,6 +8,8 @@
 #parts
 
 *.stl
+#temp
+**/~$*
 
 #special files
 carriage_extrusion/spring_replacement1.sldprt
